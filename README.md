@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hello! I'm Teker. I'm a XX year old therian who likes to code and (likely) has autism. I know, real original.
+Hello! I'm Teker.
 
 ## Projects
 
